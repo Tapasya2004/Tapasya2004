@@ -28,8 +28,10 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Data Analytics & Statistical Analysis
+- Machine Learning & Model Evaluation
+- Python for Data Science & Automation
+- Data Pipeline for Workflow Automation
 
 ## 🛠️ Technical Skillset
 
