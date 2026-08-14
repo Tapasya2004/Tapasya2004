@@ -12,7 +12,6 @@
   <a href="mailto:tapasyamendole@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
 ## 👋 About Me
 
 I enjoy working on problems where the answer isn’t obvious—asking better questions, finding the signal in the noise, and turning ideas into solutions that create real value.
