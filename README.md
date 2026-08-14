@@ -24,9 +24,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Corporate Event Impact Intelligence Platform::** Refining the project with **larger event datasets, rigorous data validation, pipeline testing, quality checks, and more reliable event-impact calculations** to ensure the insights are accurate, reproducible, and ready for deeper financial analysis.
 
 ## 🌱 Currently Learning 
 
