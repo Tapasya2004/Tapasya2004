@@ -1,7 +1,6 @@
+<img width="1983" height="629" alt="background" src="https://github.com/user-attachments/assets/80611bda-9348-4591-9a53-1ef950573656" />
 
-<img width="1983" height="793" alt="ChatGPT Image Aug 14, 2026, 07_23_29 PM" src="https://github.com/user-attachments/assets/b39c7070-d358-4d94-b31c-4c55818efbf2" />
-
-## Hi there, I'm Tapasya 😊
+### Hi there, I'm Tapasya 😊
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
