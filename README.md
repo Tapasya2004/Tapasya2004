@@ -1,4 +1,3 @@
-<img width="1983" height="629" alt="background" src="https://github.com/user-attachments/assets/80611bda-9348-4591-9a53-1ef950573656" />
 
 ### Hi there, I'm Tapasya 😊
 
