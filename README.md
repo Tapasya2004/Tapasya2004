@@ -1,5 +1,5 @@
 
-### Hi there, I'm Tapasya 😊
+# Hi there, I'm Tapasya 😊
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -26,7 +26,7 @@ Outside of work, I enjoy exploring new places, photography, learning about new i
       
 ## 🔭 What I'm Currently Working On 
 
-- **Corporate Event Impact Intelligence Platform::** Refining the project with **larger event datasets, rigorous data validation, pipeline testing, quality checks, and more reliable event-impact calculations** to ensure the insights are accurate, reproducible, and ready for deeper financial analysis.
+- **Corporate Event Impact Intelligence Platform:** Refining the project with **larger event datasets, rigorous data validation, pipeline testing, quality checks, and more reliable event-impact calculations** to ensure the insights are accurate, reproducible, and ready for deeper financial analysis.
 
 ## 🌱 Currently Learning 
 
