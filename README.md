@@ -1,3 +1,6 @@
+
+<img width="1983" height="793" alt="ChatGPT Image Aug 14, 2026, 07_23_29 PM" src="https://github.com/user-attachments/assets/b39c7070-d358-4d94-b31c-4c55818efbf2" />
+
 ## Hi there, I'm Tapasya 😊
 
 <div align="center">
