@@ -59,3 +59,32 @@ Outside of work, I enjoy exploring new places, photography, learning about new i
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Tapasya2004/crisis-impact-analysis-quickbite-express-sql-server-power-bi-python">
+<img src="https://raw.githubusercontent.com/Tapasya2004/Tapasya2004/main/assets/quickbite-express.png" width="100%" alt="QuickBite Express Crisis Impact Analysis">
+</a>
+
+### QuickBite Express — Crisis Impact Analysis
+
+End-to-end analysis of **149K+ food-delivery orders** to quantify crisis impact, identify customer churn, and prioritize recovery using SQL Server, Python, ML, and Power BI.
+
+**Python · SQL Server · Power BI · Scikit-learn**
+
+<a href="https://github.com/Tapasya2004/crisis-impact-analysis-quickbite-express-sql-server-power-bi-python">View Project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- Add your next project here -->
+
+</td>
+</tr>
+</table>
